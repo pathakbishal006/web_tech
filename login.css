@@ -1,0 +1,29 @@
+.login_form{
+    background-color: skyblue;
+    height: 600px;
+    width:100%;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  
+}
+.form_item{
+    margin-top: 10px;
+
+}
+.form_item input{
+    padding: 10px;
+}
+.container{
+   max-width:200%;
+   width: 200px;
+    padding: 5px;
+    align-items:center;
+    justify-content: center;
+    background-color: aqua;
+      border-radius: 10px;
+    box-shadow: 7px 7px 15px white;
+    display: flex;
+    
+}
